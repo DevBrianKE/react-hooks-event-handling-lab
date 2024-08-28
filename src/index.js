@@ -1,6 +1,6 @@
+// index.js or App.js
 import React from 'react';
 import ReactDOM from 'react-dom';
-
 import Keypad from './components/Keypad';
 import EyesOnMe from './components/EyesOnMe';
 
